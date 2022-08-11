@@ -1,7 +1,8 @@
 {
   "packs": [
     "Austrian_Politicians.json",
-    "Politiker.json"
+    "Politiker.json",
+    "Mesozoic.json"
   ],
   "homeserver_url": "https://synapse.n3tpl3x.duckdns.org"
 }
